@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*:root {*/
+/*  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  font-synthesis: none;*/
+/*  text-rendering: optimizeLegibility;*/
+/*  -webkit-font-smoothing: antialiased;*/
+/*  -moz-osx-font-smoothing: grayscale;*/
+/*}*/
+
+body {
+  margin: 0;
+  background: url("/src/assets/bg_erp.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
