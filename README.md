@@ -1,8 +1,4 @@
-Here’s the reformatted version of your content:
-
----
-
-# Knorex Front-end
+# STEngineering Front-end
 
 ### 0. **Environment requirements**
 
