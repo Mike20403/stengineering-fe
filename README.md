@@ -1,14 +1,37 @@
-# Knorex Front-end 
-1. **Install Dependencies**:
+Here’s the reformatted version of your content:
 
-   Install all required packages using npm:
+---
 
-   ```bash
-   npm install
-   ```
-2. **Run project**:
-     ```bash
-   npm run dev
-   ```
-## ! Note: 
-If you got problems when installing the packages. Try to remove package.lock.json
+# Knorex Front-end
+
+### 0. **Environment requirements**
+
+- Node version 20+
+
+### 1. **Install Dependencies**
+To install all required packages, use the following npm command:
+
+```bash
+npm install
+```
+
+### 2. **Run the Project**
+To start the project in development mode, run:
+
+```bash
+npm run dev
+```
+
+---
+
+### ⚠️ **Note**
+If you encounter any issues while installing the packages, try removing the `package-lock.json` file and reinstalling:
+
+```bash
+rm package-lock.json
+npm install
+```
+
+---
+
+This version enhances clarity and provides a more structured flow.
